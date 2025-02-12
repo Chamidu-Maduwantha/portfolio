@@ -1,10 +1,13 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  output:"export",
-  /* config options here */
-  distDir: "dist",
+const isProd = process.env.NODE_ENV === "production";
 
+const nextConfig: NextConfig = {
+  basePath:isProd? "/": "",
+  output:"export",
+  
+  distDir: "dist",
+  
 
 };
 
