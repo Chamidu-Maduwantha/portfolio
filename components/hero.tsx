@@ -41,14 +41,14 @@ export function Hero() {
             variants={itemVariants}
             className="animate-fade-up text-4xl font-bold tracking-tighter text-white sm:text-5xl md:text-6xl lg:text-7xl"
           >
-            チャミドゥ・ラトナヤカ
+            Chamidu Rathnayaka
           </motion.h1>
 
           <motion.p
             variants={itemVariants}
             className="mt-4 animate-fade-up text-gray-300 opacity-0 animation-delay-200 sm:text-xl"
           >
-            ソフトウェアエンジニア＆フルスタック開発者
+            Software Engineer & Full-Stack Developer
           </motion.p>
 
           <motion.div variants={itemVariants} className="flex gap-4 justify-center">
