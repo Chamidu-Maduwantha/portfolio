@@ -6,7 +6,7 @@ const EXPERIENCE = [
     company: "Unicent Apex",
     period: "11 months",
     responsibilities: [
-      "Designed, developed, and maintained web applications using Angular, Node.js, and MongoDB",
+      "Designed, developed, and maintained web applications using Angular, Node.js,NestJS,NextJS and MongoDB",
       "Implemented RESTful APIs for seamless frontend-backend communication",
       "Collaborated with cross-functional teams to deliver high-quality software solutions",
       "Optimized application performance and bug fixes to enhance user experience",
