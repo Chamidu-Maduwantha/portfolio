@@ -21,12 +21,12 @@ const contactInfo = [
   },
   {
     icon: Github,
-    href: "https://github.com/yourusername",
+    href: "https://github.com/Chamidu-Maduwantha",
     text: "GitHub Profile",
   },
   {
     icon: Linkedin,
-    href: "https://linkedin.com/in/yourusername",
+    href: "https://www.linkedin.com/in/rm-chamidu/",
     text: "LinkedIn Profile",
   },
 ]
