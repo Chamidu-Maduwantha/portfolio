@@ -8,7 +8,7 @@ export function About() {
         <Card>
           <CardContent className="p-6">
             <p className="text-lg text-muted-foreground">
-              Motivated and detail-oriented Software Engineering graduate with 11 months of part-time full-stack
+              Motivated and detail-oriented Software Engineering graduate with 1 year & 6 months of  full-stack
               development experience. Skilled in designing and developing scalable web and mobile applications using
               modern technologies like Kotlin, Angular, React, Node.js, and Firebase. Proven ability to deliver projects
               under pressure while continuously improving technical and soft skills.
