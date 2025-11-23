@@ -2,9 +2,9 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 
 const EXPERIENCE = [
   {
-    title: "Full-Stack Developer (Part-Time)",
+    title: "Full-Stack Developer",
     company: "Unicent Apex",
-    period: "11 months",
+    period: "1 year & 6 months",
     responsibilities: [
       "Designed, developed, and maintained web applications using Angular, Node.js,NestJS,NextJS and MongoDB",
       "Implemented RESTful APIs for seamless frontend-backend communication",
