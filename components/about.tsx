@@ -16,14 +16,15 @@ export function About() {
             <div className="mt-6 grid gap-4 md:grid-cols-2">
               <div>
                 <h3 className="mb-2 font-semibold">Location</h3>
-                <p className="text-muted-foreground">Aluthgedara, Madiha, Kamburugamuwa, Matara</p>
+                <p className="text-muted-foreground">Aluthgedara, Madiha, Kamburugamuwa, Matara , Sri Lanka</p>
               </div>
               <div>
                 <h3 className="mb-2 font-semibold">Education</h3>
                 <p className="text-muted-foreground">
                   BSc. Hons. Software Engineering
                   <br />
-                  National School of Business Management (NSBM)
+                  National School of Business Management (NSBM) 
+                  Affiliated with the University of Plymouth, United Kingdom
                 </p>
               </div>
             </div>
